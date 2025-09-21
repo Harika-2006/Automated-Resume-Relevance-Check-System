@@ -1,0 +1,2 @@
+Experienced in Python and Data Analysis. B.Tech in CSE.
+Projects: Built ML models using scikit-learn.

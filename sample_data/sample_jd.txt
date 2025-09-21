@@ -1,0 +1,2 @@
+Must-have: Python, SQL, Machine Learning
+Required: B.Tech
